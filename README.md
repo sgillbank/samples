@@ -8,7 +8,7 @@ Using the features of PayFabric, the 3rd party applications can:
 * Use hosted payment page and wallet page which avoid PCI compliance issues.
 * Batch process the payment transactions.
 
-# Get Started
+# Prerequisites
 Before you integrate your application with PayFabric, ensure that you have the following:
 * A merchant account of PayFabric.
 * A Setup ID in PayFabric Portal.
