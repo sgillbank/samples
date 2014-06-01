@@ -1,4 +1,0 @@
-samples
-=======
-
-PayFabric Sample Code
